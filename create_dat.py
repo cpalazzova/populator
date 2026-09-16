@@ -25,7 +25,7 @@ SPONSOR_SSN_INDEXES = (454, 462)
 SPONSOR_ICN_INDEXES = (1756, 1772)
 
 INPUT_VALUES_FILENAME = 'input_values.csv'
-OUTPUT_DAT_FILENAME = 'EligibilityPlus.PED.XXXX.PopulateXXXfor270_XXXXXXXX.dat'
+OUTPUT_DAT_FILENAME = 'EligibilityPlus.PED.XXXX.PopulateXXXfor270_XXXXXXXX.DAT'
 
 
 def convert_dob(dob_str):
